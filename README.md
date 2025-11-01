@@ -5,6 +5,7 @@ This repository provides the code accompanying the paper:
 The framework applies Adversarial Inverse Reinforcement Learning (AIRL) to model daily activity–travel sequences conditioned on individual sociodemographic features. It further introduces interpretable modules that connect the learned deep policy and reward functions to behavioral and demographic insights.
 
 **Repository Structure**
+
 **1. AIRL4Act_model_training_and_evaluation.ipynb**
 
 This notebook provides the code for training an AIRL model that generates daily sequential activity and travel decisions conditioned on individual sociodemographic features.
